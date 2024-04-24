@@ -1,0 +1,18 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\sgtwa\Desktop\Studia\2 semestr\Podstawy programowania systemów wbudowanych\TWARDOSZG\TEST.uvproj
+Project File Date:  04/16/2024
+
+<h2>Output:</h2>
+Clean started: Project: 'TEST'
+   deleting intermediate output files for target 'Target 1'
+Build target 'Target 1'
+assembling Startup.s...
+compiling 3kon.c...
+linking...
+Program Size: Code=952 RO-data=32 RW-data=16 ZI-data=1256  
+FromELF: creating hex file...
+".\TEST.axf" - 0 Errors, 0 Warning(s).
