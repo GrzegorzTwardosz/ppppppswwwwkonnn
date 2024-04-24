@@ -4,7 +4,7 @@
 #define NULL 0
 
 void UIntToHexStr(unsigned int uiValue, char pcStr[]) {
-	
+	//kokok
 	unsigned char ucNibbleCounter;
 	unsigned char ucCurrentNibble;
 
